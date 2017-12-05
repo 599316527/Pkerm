@@ -1,11 +1,11 @@
-# Pkerm
+# PKERM
 
 Personal Karabiner Elements Rules Manager
 
-## Feature
+## Features
 
-* `Manage` your KarabinerElements rules
-* `Export` your rules to KarabinerElements
+* __Manage__ your KarabinerElements rules
+* __Export__ your rules to KarabinerElements
 
 ## Build Setup
 
